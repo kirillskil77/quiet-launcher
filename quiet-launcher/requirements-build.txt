@@ -1,0 +1,8 @@
+certifi
+pyinstaller==5.13.2
+cffi==1.17.1
+pycparser==2.21
+importlib_resources==6.4.5
+importlib_metadata==8.5.0
+zipp==3.20.2
+Pillow==9.5.0
